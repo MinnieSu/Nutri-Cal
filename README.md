@@ -1,8 +1,3 @@
-# React + Vite
+# Nutri-Cal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+An all-in-one Nutrient Requirement Calculator designed for dietitians and nutrition students. Simply enter your information to get your daily requirement of energy, protein and fluid. All formula and references used in Nutri-Cal are commonly used in clinical nutrition and evidence-based.
